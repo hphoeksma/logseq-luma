@@ -932,7 +932,7 @@ a>.bullet-container {
 }
 
 /* experimental */
-@media (hover: hover) {
+/* @media (hover: hover) {
 
   .cp__header,
   .cp__right-sidebar-topbar {
@@ -950,7 +950,7 @@ a>.bullet-container {
   .r.flex {
     flex-grow: 1;
   }
-}
+} */
 
 @media (min-width: 1024px) {
   .cp__right-sidebar.closed {
